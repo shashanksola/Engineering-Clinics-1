@@ -1,6 +1,6 @@
 # Engineering-Clinics-1
 
-SUMMARY OF THE PROJECT: 
+# SUMMARY OF THE PROJECT: 
 •	The voice and sensor-controlled wheelchair project is designed to assist people with mobility impairments. The project utilizes a Raspberry Pi microcontroller and a set of sensors to detect the user's movements and voice commands to control the wheelchair.
 
 •	The ultrasonic sensor is used to detect obstacles in the path of the wheelchair and alert the user through an audio alert. The joystick module is used to detect the user's movements and control the direction of the wheelchair. The Google speech recognition module translates voice commands into corresponding movements of the wheelchair.
@@ -12,34 +12,7 @@ SUMMARY OF THE PROJECT:
 •	In conclusion, the voice and sensor-controlled wheelchair using a Raspberry Pi is a significant innovation that empowers people with mobility impairments to lead more independent and fulfilling lives. The project highlights the potential of Raspberry Pi microcontrollers for developing assistive technologies and sets an example for using technology to serve humanity.
 
 
-
-
-
-
-INDEX PAGE:
-1.	Title Page………………………………………………………….…………….1
-2.	Summary of The Project…………………………………………………...........2
-3.	Index Page ………………………………………………………………………3
-4.	Introduction……………………………………………………………………4-5
-5.	Background……………………………………………………………………6-7
-6.	Problem Definition………………………………………………………………8
-7.	Objective of The Project…………………………………………………………9
-8.	Methodology/Procedure…………………………………………………………10
-9.	Literature Survey………………………………………………………………...11
-10.	Hardware Description…………………………………………………………....12-13
-11.	 Results and Discussions…………………………………………………………14-15
-12.	 Conclusion and Future Scope…………………………………………………....16
-13.	 References………………………………………………………………………..17
-14.	 Code Appendix…………………………………………………………………...18-20
-
-
-
-
-
-
-
-
-INTRODUCTION:
+# INTRODUCTION:
 The voice and sensor-controlled wheelchair using a Raspberry Pi is a project aimed at developing an affordable and innovative solution to enhance the mobility and independence of people with physical disabilities. According to the World Health Organization (WHO), approximately 15% of the world's population lives with a disability, and among them, mobility impairments are one of the most prevalent types. Individuals with mobility impairments face many challenges, including the inability to move around independently, which can impact their quality of life significantly. As a result, there is a growing need for innovative assistive technologies that can help people with disabilities overcome these challenges and improve their mobility and independence.
 
 The voice and sensor-controlled wheelchair using a Raspberry Pi is an innovative solution that aims to address these challenges. The project utilizes the Raspberry Pi, a low-cost microcontroller that can control various components, including sensors and motors. The wheelchair's design allows users to control the wheelchair's movements and direction using their voice while also incorporating sensors to detect obstacles in the wheelchair's path. This integration of voice recognition and sensor technology offers a unique and user-friendly way for individuals with mobility impairments to move around independently.
@@ -51,25 +24,7 @@ The methodology for the project involves several stages, including design, devel
 In conclusion, the voice and sensor-controlled wheelchair using a Raspberry Pi is an innovative and promising project that has the potential to significantly improve the independence and quality of life of people with mobility impairments. By incorporating voice recognition and sensor technology, the project aims to create an affordable and user-friendly solution that can help individuals with mobility impairments move around independently. The project's methodology involves designing, developing, testing, and refining the wheelchair until it meets the needs and preferences of users with mobility impairments. The project's outcome will contribute to the ongoing discussion around the development of assistive technologies and the potential of affordable and accessible technologies to address the challenges faced by people with disabilities.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-BACKGROUND:
+# BACKGROUND:
 The voice and sensor-controlled wheelchair using a Raspberry Pi is a project that builds upon the emerging trend of assistive technologies for people with disabilities. Mobility impairments are among the most common disabilities worldwide, affecting over 15% of the global population. These impairments can significantly limit an individual's ability to move around and perform daily tasks, leading to a reduced quality of life.
 
 The development of assistive technologies has emerged as a promising solution to address the challenges faced by people with disabilities. Assistive technologies are defined as any technology that supports the independence, function, or quality of life of a person with a disability. These technologies can range from simple aids like canes and wheelchairs to more complex devices like prosthetic limbs and brain-computer interfaces.
@@ -89,30 +44,7 @@ In conclusion, the voice and sensor-controlled wheelchair using a Raspberry Pi i
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-PROBLEM DEFINITION:
+# PROBLEM DEFINITION:
 The problem that the voice and sensor-controlled wheelchair using a Raspberry Pi aims to address is the limited accessibility and affordability of traditional wheelchairs for people with mobility impairments. Mobility impairments are among the most common disabilities worldwide, affecting over 15% of the global population. These impairments can significantly limit an individual's ability to move around and perform daily tasks, leading to a reduced quality of life and increased dependency on others.
 
 The traditional wheelchair designs are often expensive, limiting their accessibility to people with disabilities. Furthermore, the functionalities of these wheelchairs are often limited, which can further restrict the independence and mobility of individuals with disabilities. This limitation can also result in social isolation and exclusion from society.
@@ -124,11 +56,7 @@ The voice and sensor-controlled wheelchair using a Raspberry Pi addresses the pr
 The project aims to provide an affordable and easy-to-use solution that can significantly improve the independence and quality of life of people with mobility impairments. The project demonstrates the potential of using affordable and accessible technologies to develop innovative and tailored solutions for people with disabilities. It also highlights the need for more accessible and affordable assistive technologies that can empower individuals with disabilities to live more independently and participate more fully in society.
 
 
-
-
-
-
-OBJECTIVE FOR THE PROJECT:
+# OBJECTIVE FOR THE PROJECT:
 The objective of the voice and sensor-controlled wheelchair using a Raspberry Pi project is to develop an affordable, easy-to-use, and innovative solution that can significantly improve the independence and quality of life of people with mobility impairments. The specific objectives of the project include:
 
 1.	Designing and developing a wheelchair that is controlled by voice commands and sensors to detect the user's movements and obstacles in the path of the wheelchair.
@@ -150,7 +78,7 @@ Overall, the objective of the project is to develop a solution that can signific
 
 
 
-METHODOLOGY/PROCEDURE:
+# METHODOLOGY/PROCEDURE:
 The methodology for the voice and sensor-controlled wheelchair using a Raspberry Pi project involves several stages, including design, development, testing, and refinement. The following outlines the steps involved in the methodology:
 
 Design: In this stage, the project team will conduct a thorough review of existing wheelchair designs, assistive technologies, and available sensors and microcontrollers. Based on this review, the team will develop a preliminary design for the voice and sensor-controlled wheelchair using a Raspberry Pi.
@@ -168,7 +96,7 @@ Documentation: The team will document the design, development, testing, and refi
 The methodology for the project is iterative, meaning that the team will continue to refine the design and functionality of the wheelchair based on user feedback and testing results until it meets the needs and preferences of users with mobility impairments. By following this methodology, the project team aims to develop an innovative, affordable, and user-friendly solution that can significantly improve the independence and quality of life of people with mobility impairments.
 
 
-LITERATURE SURVEY:
+# LITERATURE SURVEY:
 
 [1] An IR based eye understudy location is utilized with an IR transmitter and IR collector used for the movement of wheelchair. The light is sent preposterous by the IR transmitter, and the mirrored light is consumed by the IR beneficiary. The regulator can distinguish the client’s aim of wheelchair development dependent on the strength of mirrored light consumed by the recipient. The significance of this method is that it can have dependable outcomes; nonetheless, this gadget affects the eye and can cause vision misfortune.
 
@@ -187,11 +115,13 @@ LITERATURE SURVEY:
 HARDWARE DEESCRIPTION:
 A.	Raspberry Pi Board:
 The Raspberry Pi board fills in as the framework’s cerebrum. The Raspberry Pi board has its own working framework called raspbian, which is a Linux OS-based working framework that is viable with the Raspberry Pi. The Raspberry Pi model load up gets constant information and decides computerized information, permitting it to work proficiently with various pictures. The Raspberry Pi controller dispatches a request to the engine driver, which starts the GPIO to the raspberry Pi.
- 
+ ![image](https://github.com/shashanksola/Engineering-Clinics-1/assets/91751879/0c992d47-2d64-4e21-b690-3b6c28f0c68b)
+
 Figure 1		
 B.	Ultrasonic Sensor:
 Ultrasonic sensor is utilized to recognize impediment in the way of wheelchair. Sensor is straightforwardly associated with the raspberry pi board. It gets the information and estimating the distance among wheelchair and hindrance.
 On the off chance that any deterrent is recognized near wheelchair, engines will stop the movement of wheel chair. Ultrasonic sensor is an entirely moderate proximity sensor that is utilized predominantly for object evasion in different mechanical technology projects.
+![image](https://github.com/shashanksola/Engineering-Clinics-1/assets/91751879/dcfbb255-d5cc-48f7-b8af-ef857665c1d6)
 
 
  
@@ -201,7 +131,8 @@ Figure 2
 C.	Motors And Motor Controller:
 Motors are electronic devices that convert electrical energy into mechanical energy. There are many different types of motors available, each with its own features and capabilities. In the context of a voice automated wheelchair project using Raspberry Pi Pico, motors are used to drive the wheelchair's wheels, enabling it to move in different directions.
 However, motors need to be controlled to ensure that the wheelchair moves in the desired direction and at the desired speed. This is where the motor controller comes in. A motor controller is an electronic device that regulates the speed, direction, and torque of a motor.
-           
+![image](https://github.com/shashanksola/Engineering-Clinics-1/assets/91751879/a76dc191-a0b4-4d51-b768-1dab151c1e35)
+
 Figure 3
 
 D.	Power Management:
@@ -218,7 +149,7 @@ voltage from a wall outlet to the DC. Battery backup: In case of a power outage,
 
 
 
-RESULTS AND DISCUSSIONS:
+# RESULTS AND DISCUSSIONS:
 The results of the voice and sensor-controlled wheelchair using a Raspberry Pi project were positive, with the wheelchair successfully improving the mobility and independence of users with physical disabilities. The wheelchair's design and functionality were well-received by users who found it to be easy to operate and navigate. The integration of voice recognition and sensor technology was found to be an effective way to control the wheelchair's movements and direction, allowing users to move around independently and safely.
 
 During the testing phase, the project team collected user feedback and made adjustments to the wheelchair's design and functionality to improve its effectiveness and user-friendliness. For example, some users found that the wheelchair's sensors needed to be more sensitive to obstacles in their path, while others requested additional voice commands to enhance the wheelchair's functionality. These suggestions were incorporated into the final design of the wheelchair, resulting in an improved product that met the needs and preferences of users with mobility impairments.
@@ -230,18 +161,13 @@ The discussions surrounding the project emphasized the importance of user-center
 In conclusion, the voice and sensor-controlled wheelchair using a Raspberry Pi project successfully demonstrated the potential of affordable and accessible technologies to develop innovative assistive technologies for people with disabilities. The project's outcome was positive, with the wheelchair effectively improving the mobility and independence of users with physical disabilities. The project's success highlights the importance of user-centered design and the ongoing development of assistive technologies to enhance the accessibility and inclusion of people with disabilities.
 
 
+![image](https://github.com/shashanksola/Engineering-Clinics-1/assets/91751879/61bce6e3-9324-4766-b6e9-783fcc50b402)
 
 
-
- 
-
-
- 
+ ![image](https://github.com/shashanksola/Engineering-Clinics-1/assets/91751879/6a66a21c-14f9-45fa-b7fa-67ab4d4389c8)
 
 
-
-
-CONCLUSION AND FUTURE SCOPE:
+# CONCLUSION AND FUTURE SCOPE:
 In conclusion, the voice and sensor-controlled wheelchair using a Raspberry Pi project has successfully demonstrated the potential of affordable and accessible technologies to develop innovative assistive technologies for people with physical disabilities. The project's outcome was positive, with the wheelchair effectively improving the mobility and independence of users with physical disabilities. The use of voice recognition and sensor technology in the wheelchair's design was seen as an innovative and user-friendly approach that could be adapted for other assistive technologies.
 
 The project's success also highlights the importance of user-centered design and the need for continued development of assistive technologies to enhance the mobility and independence of people with physical disabilities. The ongoing research and development of assistive technologies could further improve the accessibility and inclusion of people with disabilities, creating a more inclusive and diverse society.
@@ -259,7 +185,7 @@ Overall, the voice and sensor-controlled wheelchair using a Raspberry Pi project
 
 
 
-REFERENCES:
+# REFERENCES:
 [1] S. P. Parikh, V. Grassi, V. Kumar and J. Okamoto, "Integrating Human Inputs with Autonomous Behaviors on an Intelligent Wheelchair Platform," in IEEE Intelligent Systems, vol. 22, no. 2, pp. 33-41, March-April 2007, doi: 10.1109/MIS.2007.36.
 
 [2] Masato Nishimori, Takeshi Saitoh and Ryosuke Konishi, "Voice Controlled Intelligent Wheelchair," SICE Annual Conference 2007, Takamatsu, Japan, 2007, pp. 336-340, doi: 10.1109/SICE.2007.4421003.
@@ -283,51 +209,51 @@ CODE APPENDIX:
 main.py
 # Example showing how functions, that accept tuples of rgb values,
 # simplify working with gradients
-from machine import Pin, UART,PWM, ADC
-import time,utimepy
-buz = Pin(9, Pin.OUT)
-trigger = Pin(14, Pin.OUT)
-echo = Pin(15, Pin.IN)
-def ultra():
-   trigger.low()
-   utime.sleep_us(2)
-   trigger.high()
-   utime.sleep_us(5)
-   trigger.low()
-   while echo.value() == 0:
-       signaloff = utime.ticks_us()
-   while echo.value() == 1:
-       signalon = utime.ticks_us()
-   timepassed = signalon - signaloff
-   distance = (timepassed * 0.0343) / 2
-   return distance
-
-rcv = UART(1, baudrate=9600, tx=Pin(4), rx=Pin(5))
-buff = bytearray(255)
-TIMEOUT = False
-
-m1=Pin(10,Pin.OUT)
-m2=Pin(11,Pin.OUT)
-m3=Pin(12,Pin.OUT)
-m4=Pin(13,Pin.OUT)
-
-xac = ADC(27)
-yac = ADC(28)
-stp=Pin(26,Pin.IN)
-
-while(1):
-        time.sleep(0.3)
-        dist=ultra()
-        print('DIST:'+str(dist))
-        if(dist<20):
-                buz.value(1)
-                print('STOP')
-                m1.value(0)
-                m2.value(0)
-                m3.value(0)
-                m4.value(0)
-                time.sleep(3)
-                buz.value(0)
+    from machine import Pin, UART,PWM, ADC
+    import time,utimepy
+    buz = Pin(9, Pin.OUT)
+    trigger = Pin(14, Pin.OUT)
+    echo = Pin(15, Pin.IN)
+    def ultra():
+       trigger.low()
+       utime.sleep_us(2)
+       trigger.high()
+       utime.sleep_us(5)
+       trigger.low()
+       while echo.value() == 0:
+           signaloff = utime.ticks_us()
+       while echo.value() == 1:
+           signalon = utime.ticks_us()
+       timepassed = signalon - signaloff
+       distance = (timepassed * 0.0343) / 2
+       return distance
+    
+    rcv = UART(1, baudrate=9600, tx=Pin(4), rx=Pin(5))
+    buff = bytearray(255)
+    TIMEOUT = False
+    
+    m1=Pin(10,Pin.OUT)
+    m2=Pin(11,Pin.OUT)
+    m3=Pin(12,Pin.OUT)
+    m4=Pin(13,Pin.OUT)
+    
+    xac = ADC(27)
+    yac = ADC(28)
+    stp=Pin(26,Pin.IN)
+    
+    while(1):
+            time.sleep(0.3)
+            dist=ultra()
+            print('DIST:'+str(dist))
+            if(dist<20):
+                    buz.value(1)
+                    print('STOP')
+                    m1.value(0)
+                    m2.value(0)
+                    m3.value(0)
+                    m4.value(0)
+                    time.sleep(3)
+                    buz.value(0)
                 
             
         xval = xac.read_u16()
